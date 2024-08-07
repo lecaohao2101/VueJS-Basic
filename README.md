@@ -26,5 +26,12 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
+### Install VueJS: 
+```npm install -g @vu/cli```
 
+### Create Project
+```vue create project```
+
+### Add Router 
+```vue add router```
 
